@@ -2,6 +2,10 @@
 
 ![image](./Assets/README.png)
 
+<p>
+    <img src="./Assets/README.png" width="220" height="240" />
+</p>
+
 ## Description
 A simple moringa school UI website to test my knowledge in html and css
 

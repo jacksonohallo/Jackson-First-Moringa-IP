@@ -24,7 +24,7 @@ You don't need to install anything you only need internet connection
 </ul>
 
 ## Live site
-here is a working live demo: [link]()
+here is a working live demo: [link](https://jacksonohallo.github.io/Jackson-First-Moringa-IP/)
 ## Authors
 @jackson
         ]

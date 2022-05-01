@@ -2,7 +2,8 @@
 ## Description
 A simple moringa school UI website to test my knowledge in html and css
 
-![image](/Assets/images/README.png)
+![image](./Assets/images/README.png)
+
 ## Installation requirements
 You don't need to install anything you only need internet connection
 ## Technologies used

@@ -1,0 +1,191 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+*{
+    padding: 0;margin: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+html{
+    margin: 0 10%;
+    font-family: 'Nunito', sans-serif;
+}
+header{
+    font-size: 1.4rem;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 3%;
+    flex-wrap: wrap;
+}
+
+.btn { background-color:#EC4067;
+    padding: 1.7px 12px;
+    color: #fff;
+    font-size: 0.9rem;
+    border-radius: .4rem;
+    border: .1rem solid #EC4067;
+
+       
+}
+
+.logo{
+
+
+    font-size: 1.7rem;
+    color:black;
+    font-weight: 300;
+}
+.btn:hover{
+    background-color: #fff;
+    color: #EC4067;
+    border: 0.1rem solid #EC4067;
+}
+
+header nav a{
+    margin-left: 2rem;
+    font-size: 80%;
+    padding-left: 1rem;
+    color: black;
+}
+
+
+.logo span{ color: #EC4067;
+
+}
+
+
+
+ .left h2{
+     margin-top: 1%;
+     color: #EC4067;
+ }
+
+
+ img {
+ width: 100%;
+ object-fit: contain;
+}
+.images{
+ height:300px;
+ width: 300px;
+ 
+}
+span{
+    color:#EC4067;
+}
+.home {
+display: flex;
+    align-items: center;
+    margin: 5rem 0;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.moringa-test{
+font-size: 1.3rem;
+
+}
+
+.left h2{
+
+    font-weight: 500;
+    margin: 1rem 0;
+    font-size: 2.1rem;
+    color:#EC4067;
+}
+
+.home-btn{
+
+    margin-top: 2rem;
+}
+
+.explore{
+
+    margin-left: 1.5rem;
+    background-color: #fff;
+    color: #EC4067;
+    border: 1.5px solid #EC4067;
+    
+}
+
+.explore:hover{ 
+    background-color: #EC4067;
+    color: #fff;
+}
+.memories{
+    display: flex;
+     justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.boarding{
+
+    display: flex;
+     justify-content: space-around;
+    flex-wrap: wrap;
+    align-items: center;
+    
+}
+
+
+
+.tms{
+    display: flex;
+    flex-wrap: wrap;
+     justify-content: space-around;
+
+}
+.tm img{
+    width: 150px;
+    height: 150px;
+}
+.tm{
+    width: 18%;
+
+}
+
+.tm p{
+    font-size: 0.7rem;
+    margin: 0.5rem 0;
+}
+
+.bottom{
+
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    
+}
+.bottom img{
+    height: 400px;
+    width: 400px;
+}
+.bottom h4{
+    font-size: 1.8rem;
+    margin: 0.5 0;
+    color:#EC4067;
+    font-weight:300
+}
+.bottom-image{
+    margin-left: 2rem;
+}
+.app{
+    margin-bottom: 1.5rem;
+}
+.sure{
+    margin: 2rem 0;
+}
+ .sure h4{
+     font-size: 1.5rem;
+     margin-bottom: 1.5rem;
+     color: #EC4067;
+ }
+ .sure p span{color: #EC4067;
+
+ }
+
+ .footer{
+     text-align: center;
+     background-color: gray;
+     padding: 1rem 0;
+     margin: 0;
+ }

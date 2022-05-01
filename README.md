@@ -1,26 +1,28 @@
 # Moringa school
 
-![image](./Assets/README.png)
 
-<p>
-    <img src="./Assets/README.png" width="220" height="240" />
-</p>
+![image](./Assets/images/image10.png)
+
 
 ## Description
+
 A simple moringa school UI website to test my knowledge in html and css
 
-
-
 ## Installation requirements
+
 You don't need to install anything you only need internet connection
+
 ## Technologies used
+
 <ul>
    <li>HTML</li>
    <li>CSS</li>
 </ul>
 
 ## Development
-  Want to contribute? Okay cool;follow the following steps:
+
+Want to contribute? Okay cool;follow the following steps:
+
 <ul>
    <li>Fork the repo</li>
    <li>Create a new branch</li>
@@ -32,7 +34,10 @@ You don't need to install anything you only need internet connection
 </ul>
 
 ## Live site
+
 here is a working live demo: [link](https://jacksonohallo.github.io/Jackson-First-Moringa-IP/)
+
 ## Authors
+
 @jackson
-        ]
+]
